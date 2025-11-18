@@ -2,6 +2,8 @@
 
 This project analyzes customer sentiment and hidden thematic structure in Amazon reviews for Nike products, spanning footwear, apparel, accessories, and related product categories. Using a fully reproducible natural language processing (NLP) pipeline, the project applies both **classical topic modeling (LDA)** and **modern embedding-based modeling (BERTopic)** to uncover product themes, performance attributes, aesthetic trends, and consumer pain points. It also integrates sales rank, rating distributions, and category-level exploratory analysis to tie textual themes to marketplace behavior.
 
+**Note:** to see interactive LDA topic modeling and BERTopic modeling visualizations, please click the Collab link when viewing this juypter notebook in Github.  Clicking on the Collab link provides full access to visualizations not available in Github.
+
 ---
 
 ## **Project Goals**
